@@ -1,0 +1,28 @@
+name: soundfloor
+favicon: null
+layout_spectrum: 0.08265602542087436
+typography_spectrum: 0.2739778847899288
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#B8B42D'
+    - '#697A21'
+    - '#FFFCE8'
+    - '#3E363F'
+    - '#DD403A'
+  brandStrength: 0.3053132595960051
+  lightness: 0.062863516388461
+  saturation: 0.5605873269960284
+  rhythmicContrast: 0.44822045881301165
+purpose: []
