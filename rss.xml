@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[soundfloor]]></title>
+        <description><![CDATA[soundfloor]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Fri, 19 Feb 2016 14:47:32 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[about]]></title>
+            <description><![CDATA[<article><h1>about</h1><p>soundfloor provides marketing and sales services for brands.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/be683f7a40bc8600c6e447d31d3254822bcc912d.jpg"></article>]]></description>
+            <link>undefinedabout/index.html</link>
+            <guid isPermaLink="false">9e2fa640-63f2-403a-8950-e29bac244c8d</guid>
+            <pubDate>Fri, 19 Feb 2016 14:47:25 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
