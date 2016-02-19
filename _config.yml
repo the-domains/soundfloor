@@ -1,7 +1,7 @@
 name: soundfloor
 favicon: null
-layout_spectrum: 0.08265602542087436
-typography_spectrum: 0.2739778847899288
+layout_spectrum: 0.25711
+typography_spectrum: 0.26728
 cta:
   domain: null
   bucket: null
